@@ -10,8 +10,8 @@ const projects = [
     title: "Portfolio Website",
     description: "A modern and responsive portfolio website built using Next.js to showcase projects and skills.Features smooth animations, optimized performance, and a clean UI for a great user experience.",
     tech: ["Next.js", "React", "Tailwind CSS", "Javascript/Typescript"],
-    github: "https://github.com",
-    demo: "https://demo.com",
+    github: "https://github.com/YashasviSaroha/Portflio-Website",
+    demo: "https://portflio-website-theta.vercel.app/",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAX6X9uv8VyqTCjkPaA87HMQV-YrM84XQBqg&s",
   },
   {
