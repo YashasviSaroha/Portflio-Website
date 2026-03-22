@@ -6,7 +6,7 @@ A modern and responsive **developer portfolio website** built to showcase my pro
 
 ## 🚀 Live Demo
 
-* 🔗 Frontend: [https://your-portfolio-link.vercel.app](https://portflio-website-theta.vercel.app/)
+* 🔗 Frontend: https://portflio-website-theta.vercel.app/
 * 🔗 GitHub Repo: https://github.com/YashasviSaroha/Portflio-Website
 
 ---
